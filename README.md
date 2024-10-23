@@ -1,11 +1,9 @@
-SMS-Spammer-Android
+![frown_in_purple_chat_bubble_rounded_EDITED](https://github.com/user-attachments/assets/eb5dbca1-1211-45e8-aa4b-3d2dc774d972)
+
+
+Annoy
 ===================
 
-[![Build Status](https://travis-ci.org/tiphedor/SMS-Spammer-Android.svg?branch=master)](https://travis-ci.org/tiphedor/SMS-Spammer-Android)
+An annoying message spamming app for Android 
 
-SMS Spamming app for android - for educational purpose only. 
-
-
-This app was banned from the Play Store, here you can get its sources and do whatever you want with it. 
-
-If you just want the binary, check this page : https://github.com/tiphedor/SMS-Spammer-Android/releases
+Forked from [this git repo](https://github.com/tiphedor/SMS-Spammer-Android)
